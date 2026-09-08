@@ -1,0 +1,33 @@
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: #f4f4f9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+  background: #ffffff;
+  padding: 40px 60px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #4b0082;
+  margin-bottom: 10px;
+}
+
+p {
+  color: #333333;
+  font-size: 18px;
+}
+
+.task-label {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #888888;
+}
